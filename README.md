@@ -8,7 +8,7 @@ This project presents an interactive Sales Analytics Dashboard developed using T
 
 ## 📷 Dashboard Preview
 
-![AmazingMart Dashboard](dashboard-overview.png)
+![AmazingMart Dashboard](dashboard-overview .png)
 
 ---
 
